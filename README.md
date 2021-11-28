@@ -19,9 +19,7 @@ Let me introduce myself:
 ![IMG_20210827_154401](https://cdn.donmai.us/original/78/84/__mulberry_arknights_drawn_by_mcoco7__7884f2a9d54f00e4b08d909d5666562f.jpg)
 
 
-
-<p align="center">
-  <a href="https://instagram.com/potazoxyz"><img src="https://img.shields.io/badge/Unxzx-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+ 
   <a href="https://wa.me/6283162498175"><img src="https://img.shields.io/badge/WassapMe-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
