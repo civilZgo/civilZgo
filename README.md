@@ -37,10 +37,10 @@
 </div>
 
 
-# Tentang Kami
+# Tentang Team
 - [Chat Me On WhatsApp](https://wa.me/6283162498175)
 - [Lexmoon Team](https://chat.whatsapp.com/LtrYP0b22L3KgR9bsXcDcF)
 # My Partner
-- [Hardiansyah](https://github.com/shinoahiiraginime)
-- [Mika](http://github.com/MiyaZb)
+- [Shinoahiiraginime](https://github.com/shinoahiiraginime)
+- [MiyaZb](http://github.com/MiyaZb)
 - [Gilang](https://github.com/GilangGanss)
