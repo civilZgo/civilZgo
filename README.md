@@ -35,8 +35,7 @@
   </font>
 </strong>
 </div>
-<br/>
-<br/>
-<br/>
-<h2 align="center">Languages and Tools:</h2>
-- [`Chat Me On WhatsApp`](link)
+
+
+# align="center">Languages and Tools
+- ['Chat Me On WhatsApp`](link)
