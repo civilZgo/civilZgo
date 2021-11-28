@@ -10,7 +10,7 @@
   I started my programmer life with nodejs (mostly because of whatsapp-bot), tried nodejs and soon got into JavaScript / TypeScript. 🪐
 </p>
 <p align="center">
-  Hardiansyah, mika, Gilang has been my partner for the last 1 year in the field of Web Development.
+  Hardiansyah, mika, Gilang has been my partner for the last 1 year in the field of whatsapp-bot development.
 </p>
 <br />
 <h2 align="center">Languages and Tools:</h2>
@@ -41,7 +41,7 @@
 
 
 
-# Repo Stats 🔭
+# repo stats 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=games-wabot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=RIXLE-BOT&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=alphab0t10&theme=dark)
