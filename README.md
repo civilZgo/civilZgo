@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=civilZgo&label=Profile%20views&color=0e75b6&style=flat" alt="civilZgo" /> </p>
 
-# Arknights Animation
+
 
 <p align="center">
 
