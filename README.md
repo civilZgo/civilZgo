@@ -6,6 +6,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=civilZgo&label=Profile%20views&color=0e75b6&style=flat" alt="civilZgo" /> </p>
 
+# Arknights Animation
+
+<p align="center">
+
+  <img src="https://github.com/zeeoneofc/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
+
+</p>
+
 
 <h2 align="center">My history</h2>
 <p align="center">
