@@ -64,14 +64,14 @@
 
 </details>
 
-##
-<details>
+## <details>
+
 # repo stats 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=games-wabot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=RIXLE-BOT&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=alphab0t10&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=cream&theme=nightowl)
-</details>
+
 
 
 
@@ -92,3 +92,5 @@
 - [`©copyright by civilZgo, 2021
 Test, test an, sampe bisa wkwkwkakaka`](https://github.com/civilZgo)
 
+
+</details>
