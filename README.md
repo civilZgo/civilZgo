@@ -2,14 +2,14 @@
 
 
 #### *_I'm Heree_*
-[![Heree](https://img.shields.io/badge/Heree%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Ij7zZoDTDgHAi9TTfzu0ay)
+[![Heree](https://img.shields.io/badge/Heree%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283162498175?text=Hi+bro)
 
 
-#### Me as unx
+#### Me as XembooXD
 
 Let me introduce myself:
 
--  I’m jobless
+-  I’m student
 -  I’m currently learning how to be better
 -  I’m looking to .....nothing
 -  Ask me about how to be lazy
@@ -21,8 +21,8 @@ Let me introduce myself:
 
 
 <p align="center">
-  <a href="https://instagram.com/unxzx_"><img src="https://img.shields.io/badge/Unxzx-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/62887436568613"><img src="https://img.shields.io/badge/WassapMe-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/potazoxyz"><img src="https://img.shields.io/badge/Unxzx-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/6283162498175"><img src="https://img.shields.io/badge/WassapMe-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 
