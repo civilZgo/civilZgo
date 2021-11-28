@@ -5,7 +5,7 @@
 
 <h2 align="center">My history</h2>
 <p align="center">
-  I started my programmer life with Java (mostly because of Minecraft), tried Kotlin and soon got into JavaScript / TypeScript. 🪐
+  I started my programmer life with nodejs (mostly because of whatsapp-bot), tried nodejs and soon got into JavaScript / TypeScript. 🪐
 </p>
 <p align="center">
   Hardiansyah, mika, Gilang has been my partner for the last 1 year in the field of Web Development.
