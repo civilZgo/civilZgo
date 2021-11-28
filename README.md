@@ -8,7 +8,7 @@
   I started my programmer life with Java (mostly because of Minecraft), tried Kotlin and soon got into JavaScript / TypeScript. 🪐
 </p>
 <p align="center">
-  NodeJs has been my partner for the last 1 year in the field of Web Development.
+  Hardiansyah, mika, Gilang has been my partner for the last 1 year in the field of Web Development.
 </p>
 <br />
 <h2 align="center">Languages and Tools:</h2>
