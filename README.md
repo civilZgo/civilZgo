@@ -19,7 +19,8 @@
  <br/>
  <br/>
  <br/>
- <br/>
+ 
+### My stats
   <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=civilZgo&show_icons=true&locale=en&layout=compact&theme=prussian" alt="civilZgo" /></div>
 <br/>
 <br/>
@@ -29,10 +30,10 @@
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=civilZgo&show_icons=true&locale=en&theme=prussian" alt="civilZgo" /></div>
 <br/>
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgoc&repo=&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=games-wabot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=RIXLE-BOT&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=alphab0t10&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgoc&repo=cream&theme=nightowl)
 <br/>
 <br/>
 <div align="center">
