@@ -28,6 +28,11 @@
 <br/>
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=civilZgo&show_icons=true&locale=en&theme=prussian" alt="civilZgo" /></div>
 <br/>
+### Repo Stats 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgoc&repo=&theme=nightowl)
 <br/>
 <br/>
 <div align="center">
