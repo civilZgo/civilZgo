@@ -37,5 +37,5 @@
 </div>
 
 
-# align="center">Languages and Tools
-- ['Chat Me On WhatsApp`](link)
+# Tentang Kami
+- [Chat Me On WhatsApp](link)
