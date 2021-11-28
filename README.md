@@ -63,9 +63,9 @@
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=civilZgo)
 
-</details>
 
-<details>
+
+
 
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
