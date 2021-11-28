@@ -38,4 +38,5 @@
 
 
 # Tentang Kami
-- [Chat Me On WhatsApp](link)
+- [Chat Me On WhatsApp](https://wa.me/6283162498175)
+
