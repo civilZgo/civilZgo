@@ -44,7 +44,8 @@
 <div align="center">
 <strong>
   <font size="+2" style="font">
-  civilZgo © 2021
+  c
+
   </font>
 </strong>
 </div>
