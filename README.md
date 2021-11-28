@@ -81,4 +81,6 @@
 ![IMG_20210827_154401](https://cdn.donmai.us/original/78/84/__mulberry_arknights_drawn_by_mcoco7__7884f2a9d54f00e4b08d909d5666562f.jpg)
 
 ![IMG_20210827_154402](https://cdn.donmai.us/original/73/89/__andreana_arknights_drawn_by_beudelb__7389ed770ab8863c6da4cc2fac035b3c.jpg)
+- [`©copyright by civilZgo, 2021
+Test, test an, sampe bisa wkwkwkakaaka`](https://github.com/civilZgo)
 
