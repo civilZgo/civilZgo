@@ -16,7 +16,7 @@ Let me introduce myself:
 -  Fun fact: i'm a human
 
 
-![IMG_20210827_154401](https://user-images.githubusercontent.com/84166927/135108966-5f433fe9-d3c7-433c-b64f-f83407c638e8.jpg)
+![IMG_20210827_154401](https://cdn.donmai.us/original/78/84/__mulberry_arknights_drawn_by_mcoco7__7884f2a9d54f00e4b08d909d5666562f.jpg)
 
 
 
@@ -57,7 +57,7 @@ Let me introduce myself:
 ### Oh Yeaahh
 <details>
    <summary>&#127942 <b>My Jobless Project</summary>
-   <a href="https://github.com/unx21/violet">
+   <a href="https://github.com/civilZgo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=unx21&repo=violet">
    <a href="https://github.com/unx21/ayame">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=unx21&repo=ayame">
