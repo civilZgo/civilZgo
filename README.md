@@ -57,7 +57,7 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=alphab0t10&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=cream&theme=nightowl)
 
-<details>
+### <details>
 
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
@@ -67,7 +67,7 @@
 
 
 
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
 
 ![Metrics](https://metrics.lecoq.io/civilZgo?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
 
