@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm civilZgo</h1>
 <h3 align="center">I'm civilZgo a 14 years old developer and curious about how things work.</h3>
-<br/>
+
 ![IMG_20210827_154401](https://cdn.donmai.us/original/78/84/__mulberry_arknights_drawn_by_mcoco7__7884f2a9d54f00e4b08d909d5666562f.jpg)
 
 <h2 align="center">My history</h2>
