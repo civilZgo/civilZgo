@@ -44,7 +44,7 @@
 <div align="center">
 <strong>
   <font size="+2" style="font">
-  c
+  
 
   </font>
 </strong>
