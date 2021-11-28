@@ -20,7 +20,7 @@
   <img src="https://github.com/civilZgo/civilZgo/blob/main/profile.gif" />
 
 </p>
-- [`My Waifu`](https://github.com/civilZgo/waifu)
+# [`My Waifu`](https://github.com/civilZgo/waifu)
 
 <h2 align="center">My history</h2>
 <p align="center">
