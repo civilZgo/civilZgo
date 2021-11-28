@@ -56,6 +56,6 @@
 - [Chat Me On WhatsApp](https://wa.me/6283162498175?"Hello)
 - [Lexmoon Team](https://chat.whatsapp.com/LtrYP0b22L3KgR9bsXcDcF)
 # My Team
-- [Shinoahiiraginime](https://github.com/shinoahiiraginime)
+- [Boedzhanks](https://github.com/shinoahiiraginime)
 - [MiyaZb](http://github.com/MiyaZb)
 - [Wibu X-PLOIT](https://github.com/GilangGanss)
