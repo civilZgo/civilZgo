@@ -50,8 +50,8 @@
 <br/>
 <div align="center">
 <strong>
-  <font size="+2" style="font">
-  
+  <font size="+3" style="bold">
+  custom edited by me
 
   </font>
 </strong>
