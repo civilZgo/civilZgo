@@ -64,8 +64,6 @@
 
 </details>
 
-## <details>
-
 # repo stats 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=games-wabot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=RIXLE-BOT&theme=nightowl)
