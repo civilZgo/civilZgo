@@ -20,7 +20,7 @@
   <img src="https://github.com/civilZgo/civilZgo/blob/main/profile.gif" />
 
 
-[`My Waifu`](https://github.com/civilZgo/waifu/blob/main/README.md)
+   ### [`My Waifu`](https://github.com/civilZgo/waifu/blob/main/README.md)
 
 <h2 align="center">My history</h2>
 <p align="center">
@@ -91,4 +91,4 @@
 Test, test an, sampe bisa wkwkwkakaka`](https://github.com/civilZgo)
 
 
-</details>
+[](@copyright by Dikyy)
