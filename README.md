@@ -91,4 +91,4 @@
 Test, test an, sampe bisa wkwkwkakaka`](https://github.com/civilZgo)
 
 
-[](@copyright by Dikyy)
+[`©copyright by Dikyy`](https://github.com/Towartz)
