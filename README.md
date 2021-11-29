@@ -14,7 +14,7 @@
 </p>
 
 
-# Arknights animation
+# `Arknights animation`
 <p align="center">
 
   <img src="https://github.com/civilZgo/civilZgo/blob/main/profile.gif" />
@@ -37,7 +37,7 @@
  <br/>
  <br/>
  
-### My stats
+### `My stats`
   <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=civilZgo&show_icons=true&locale=en&layout=compact&theme=prussian" alt="civilZgo" /></div>
 <br/>
 <br/>
@@ -64,7 +64,7 @@
 
 </details>
 
-# repo stats 
+# `repo stats`
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=games-wabot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=RIXLE-BOT&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=civilZgo&repo=alphab0t10&theme=dark)
@@ -74,15 +74,15 @@
 
 
 
-# About me
+# `About me`
 - [`Chat Me On WhatsApp`](https://wa.me/6283162498175?"Hello)
 - [`Lexmoon Team`](https://chat.whatsapp.com/LtrYP0b22L3KgR9bsXcDcF)
-# My Team
+# `My Team`
 - [`Boedzhanks`](https://github.com/shinoahiiraginime)
 - [`MiyaZb`](http://github.com/MiyaZb)
 - [`Wibu X-PLOIT`](https://github.com/GilangGanss)
 
-# My Waifu (Arknights)
+# `My Waifu (Arknights)`
 - [`source`](https://cdn.donmai.us/original/78/84/__mulberry_arknights_drawn_by_mcoco7__7884f2a9d54f00e4b08d909d5666562f.jpg)
 ![@copyright by Dikyy](https://cdn.donmai.us/original/78/84/__mulberry_arknights_drawn_by_mcoco7__7884f2a9d54f00e4b08d909d5666562f.jpg)
 
