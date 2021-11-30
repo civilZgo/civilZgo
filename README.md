@@ -16,7 +16,7 @@
 
 
 
-# My Fav games :`Arknights`
+# My Fav games :[`Arknights`](https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights&hl=en_US&gl=US)
 <p align="center">
 
   <img src="https://github.com/civilZgo/civilZgo/blob/main/profile.gif" />
