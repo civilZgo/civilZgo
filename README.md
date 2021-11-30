@@ -16,11 +16,10 @@
 
 
 
-# `Arknights animation`
+# My Fav games :`Arknights`
 <p align="center">
 
   <img src="https://github.com/civilZgo/civilZgo/blob/main/profile.gif" />
-
 
    ### [`My Waifu`](https://github.com/civilZgo/waifu/blob/main/README.md)
 
