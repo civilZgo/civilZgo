@@ -5,6 +5,10 @@
 <h3 align="center">I'm civilZgo a 14 years old, student and curious about how things work.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=civilZgo&label=Profile%20views&color=0e75b6&style=flat" alt="civilZgo" /> </p>
+<a href="https://www.youtube.com/channel/UCHLN8M0Z5MN114wBshKb92g">
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCHLN8M0Z5MN114wBshKb92g&key=[YOUR API KEY]"/>
+</a>
+
 
 
 <p align="center">
