@@ -1,4 +1,4 @@
-<h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<h1 align="center">السلام عليكم <img src="https://github.com/civilZgo/civilZgo/blob/main/Hi.gif" width="40px" alt=""><br></h1>
 
 
 
@@ -52,7 +52,7 @@
 <div align="center">
 <strong>
   <font size="+3" style="bold">
-  custom edited by me
+  custom edited by me @civilZgo
 
   </font>
 </strong>
@@ -86,10 +86,8 @@
 # `My Waifu (Arknights)`
 - [`source`](https://cdn.donmai.us/original/78/84/__mulberry_arknights_drawn_by_mcoco7__7884f2a9d54f00e4b08d909d5666562f.jpg)
 ![@copyright by Dikyy](https://cdn.donmai.us/original/78/84/__mulberry_arknights_drawn_by_mcoco7__7884f2a9d54f00e4b08d909d5666562f.jpg)
-
 ![@copyright by Dikyy](https://cdn.donmai.us/original/73/89/__andreana_arknights_drawn_by_beudelb__7389ed770ab8863c6da4cc2fac035b3c.jpg)
-- [`©copyright by civilZgo, 2021
-Test, test an, sampe bisa wkwkwkakaka`](https://github.com/civilZgo)
+- [`More pict?`](https://danbooru.donmai.us/posts?page=1&tags=Arknights)
 
 
 [`©copyright by Dikyy`](https://github.com/Towartz)
