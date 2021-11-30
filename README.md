@@ -6,9 +6,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=civilZgo&label=Profile%20views&color=0e75b6&style=flat" alt="civilZgo" /> </p>
 
-<a href="https://www.youtube.com/channel/UCHLN8M0Z5MN114wBshKb92g">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCHLN8M0Z5MN114wBshKb92g&key=AIzaSyA6t9qQyo36Br7-Q_mr4xnN5zDyxexdymY"/>
-</a>
 
 
 <p align="center">
@@ -16,6 +13,7 @@
   <img src="https://cdn.donmai.us/original/a2/bc/__reiuji_utsuho_touhou_drawn_by_guuchama__a2bce6a6e5b21a789ba332b07ddb64b1.png" />
 
 </p>
+
 
 
 # `Arknights animation`
